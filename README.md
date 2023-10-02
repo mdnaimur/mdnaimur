@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 
-👋 Hello! I'm #####Md Naimur Rahman, a seasoned Data Analyst and Data Scientist, specializing in Python, and Django Web Development.
+👋 Hello! I'm *Md Naimur Rahman*, a seasoned Data Analyst and Data Scientist, specializing in Python, and Django Web Development.
 
 📊 With a passion for uncovering insights hidden in data, I thrive on transforming raw information into actionable knowledge. My expertise spans a wide range of data manipulation, visualization, and predictive modeling techniques, leveraging Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Additionally, I excel at harnessing the power of Excel and Google Sheets for comprehensive data analysis and reporting.
 
