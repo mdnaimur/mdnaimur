@@ -1,7 +1,23 @@
 ### Hi there 👋, Md Naimur Rahman
 #### Full Stack Software developer
 # 💫 About Me:
-I completed my BSc in CSE from Hamdard University Bangladesh.I am working as a Full Stack Software developer. My experience area is Web Development(Django,ReactJs). I'm a results-oriented mid-level software developer with an outstanding work ethic and computer knowledge base. Self-organized quick learner who constantly trying to become better professional in this rapidly changing industry. I am pretty flexible with respect to working hours but can adapt to any environment, and able to work well independently or as part of the development team. I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter. Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more than willing to follow my fascinations wherever they take me. I’m a passionate, expressive, multi-talented spirit with a natural ability to entertain and inspire.
+
+
+👋 Hello! I'm #####Md Naimur Rahman, a seasoned Data Analyst and Data Scientist, specializing in Python, and Django Web Development.
+
+📊 With a passion for uncovering insights hidden in data, I thrive on transforming raw information into actionable knowledge. My expertise spans a wide range of data manipulation, visualization, and predictive modeling techniques, leveraging Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Additionally, I excel at harnessing the power of Excel and Google Sheets for comprehensive data analysis and reporting.
+
+💻 On the web development front, I'm a proficient Django Web Developer. I derive immense satisfaction from crafting responsive web applications using Django's robust framework. Whether it's building interactive user interfaces or designing efficient backends, I'm always up for the challenge.
+
+📈 When it comes to data visualization and reporting, I shine. I specialize in creating dynamic and insightful dashboards and reports with Power BI, Excel, and Google Sheets. My knack for translating complex data into clear, visually appealing insights equips decision-makers with the tools they need to drive informed choices.
+
+🚀 Committed to lifelong learning, I eagerly embrace new data challenges and web development projects. My GitHub repositories showcase a portfolio of my work, demonstrating my ability to transform data into actionable insights, ideas into web applications, and numbers into compelling visualizations.
+
+📫 I welcome collaborations and networking opportunities. You can reach out to me at the below email or connect with Social Media. Let's embark on a data-driven web development journey together!
+
+---
+
+Feel free to personalize this description further with your own experiences, projects, and any additional information you'd like to emphasize on your GitHub profile. This profile summary should provide a strong and engaging introduction to your skills and expertise in data analysis and web development.
 
 
 ## 🌐 Socials:
