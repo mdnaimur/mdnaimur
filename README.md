@@ -1,5 +1,5 @@
 ### Hi there 👋, Md Naimur Rahman
-#### Full Stack Software developer
+#### Full Stack Software Developer || Business Analysts || Data Analyst || Data Scientist
 # 💫 About Me:
 
 
