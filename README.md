@@ -13,11 +13,10 @@
 
 🚀 Committed to lifelong learning, I eagerly embrace new data challenges and web development projects. My GitHub repositories showcase a portfolio of my work, demonstrating my ability to transform data into actionable insights, ideas into web applications, and numbers into compelling visualizations.
 
+---
 📫 I welcome collaborations and networking opportunities. You can reach out to me at the below email or connect with Social Media. Let's embark on a data-driven web development journey together!
 
 ---
-
-Feel free to personalize this description further with your own experiences, projects, and any additional information you'd like to emphasize on your GitHub profile. This profile summary should provide a strong and engaging introduction to your skills and expertise in data analysis and web development.
 
 
 ## 🌐 Socials:
