@@ -1,5 +1,6 @@
 ### Hi there 👋, Md Naimur Rahman
-#### Full Stack Software Developer || Business Analysts || Data Analyst || Data Scientist
+#### Full Stack Software Engineer 
+<!--
 # 💫 About Me:
 
 
@@ -12,7 +13,7 @@
 📈 When it comes to data visualization and reporting, I shine. I specialize in creating dynamic and insightful dashboards and reports with Power BI, Excel, and Google Sheets. My knack for translating complex data into clear, visually appealing insights equips decision-makers with the tools they need to drive informed choices.
 
 🚀 Committed to lifelong learning, I eagerly embrace new data challenges and web development projects. My GitHub repositories showcase a portfolio of my work, demonstrating my ability to transform data into actionable insights, ideas into web applications, and numbers into compelling visualizations.
-
+-->
 ---
 📫 I welcome collaborations and networking opportunities. You can reach out to me at the below email or connect with Social Media. Let's embark on a data-driven web development journey together!
 
@@ -29,11 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdnaimur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
