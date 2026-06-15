@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻Full-Stack Engineer (React/Next.js, Node.js, PostgreSQL, Python)  | 🛠️Backend & Data Systems Engineer | 
+## 💻Full-Stack Engineer (React/Next.js, Node.js, PostgreSQL, Python)  | 🛠️Backend & Data Systems Engineer 
 
 Software Engineer specialising in backend development, database engineering, and scalable web applications.
 
@@ -15,6 +15,15 @@ Software Engineer specialising in backend development, database engineering, and
 I enjoy building production-ready systems that combine clean architecture, efficient databases, and practical business solutions.
 
 </div>
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnr100.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimur240@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/md_naimur100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mnr100/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdnaimur)
+
+</div>
+
 
 ---
 
@@ -36,19 +45,8 @@ I enjoy building production-ready systems that combine clean architecture, effic
 
 ---
 
-### 🌱 Currently
 
-- 📚 Learning: **Redux, SaaS, Security , AWS, Advance DB**
 
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnr100.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimur240@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/md_naimur100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mnr100/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdnaimur)
-
-</div>
 
 ---
 
@@ -58,12 +56,3 @@ I enjoy building production-ready systems that combine clean architecture, effic
 
 ---
 
-### 💖 Support My Work
-
----
-
-<div align="center">
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
