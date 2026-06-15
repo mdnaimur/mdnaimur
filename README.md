@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=MD%20NAIMUR%20RAHMAN&fontSize=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=MD%20NAIMUR%20RAHMAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Pyhton%20JavaScript%20%7C%20PostgreSQL%20%7C%20System%20Design&descAlignY=58&descSize=18&descColor=E2E8F0)
 
 <div align="center">
 
