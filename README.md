@@ -1,35 +1,69 @@
-### Hi there 👋, Md Naimur Rahman
-#### Full Stack Software Engineer 
-<!--
-# 💫 About Me:
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=MD%20NAIMUR%20RAHMAN&fontSize=50&fontColor=fff&animation=fadeIn)
 
+<div align="center">
 
-👋 Hello! I'm *Md Naimur Rahman*, a seasoned Data Analyst and Data Scientist, specializing in Python, and Django Web Development.
+### 💻Full-Stack Engineer (React/Next.js, Node.js, PostgreSQL, Python)  | 🛠️Backend & Data Systems Engineer | 
 
-📊 With a passion for uncovering insights hidden in data, I thrive on transforming raw information into actionable knowledge. My expertise spans a wide range of data manipulation, visualization, and predictive modeling techniques, leveraging Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Additionally, I excel at harnessing the power of Excel and Google Sheets for comprehensive data analysis and reporting.
+Software Engineer specialising in backend development, database engineering, and scalable web applications.
 
-💻 On the web development front, I'm a proficient Django Web Developer. I derive immense satisfaction from crafting responsive web applications using Django's robust framework. Whether it's building interactive user interfaces or designing efficient backends, I'm always up for the challenge.
+🔹 Django & Node.js
+🔹 React & Next.js
+🔹 PostgreSQL & SQL
+🔹 REST API Development
+🔹 System Design & SaaS Architecture
 
-📈 When it comes to data visualization and reporting, I shine. I specialize in creating dynamic and insightful dashboards and reports with Power BI, Excel, and Google Sheets. My knack for translating complex data into clear, visually appealing insights equips decision-makers with the tools they need to drive informed choices.
+I enjoy building production-ready systems that combine clean architecture, efficient databases, and practical business solutions.
 
-🚀 Committed to lifelong learning, I eagerly embrace new data challenges and web development projects. My GitHub repositories showcase a portfolio of my work, demonstrating my ability to transform data into actionable insights, ideas into web applications, and numbers into compelling visualizations.
--->
----
-📫 I welcome collaborations and networking opportunities. You can reach out to me at the below email or connect with Social Media. Let's embark on a data-driven web development journey together!
-
----
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdnaimurr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnr100/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MdNaimurRahmanD) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdnaimur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdnaimur&theme=dark&hide_border=false)<br/>
-
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💻 Tech Stack
+
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white) ![reactjs](https://img.shields.io/badge/reactjs-333?style=for-the-badge&logo=reactjs&logoColor=white) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![django restapi](https://img.shields.io/badge/django%20restapi-333?style=for-the-badge&logo=djangorestapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-333?style=for-the-badge&logo=devops&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnaimur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+### 🌱 Currently
+
+- 📚 Learning: **Redux, SaaS, Security , AWS, Advance DB**
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnr100.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimur240@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/md_naimur100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mnr100/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdnaimur)
+
+</div>
+
+---
+
+### ✍️ Blog & Content
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/https://medium.com/@mdnaimurr)
+
+---
+
+### 💖 Support My Work
+
+---
+
+<div align="center">
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
